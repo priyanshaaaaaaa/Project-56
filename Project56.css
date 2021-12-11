@@ -1,0 +1,22 @@
+body {
+	  text-align: center;
+	  background-color: #f0e8c5;
+	}
+
+	div {
+	  margin-top: 15px;
+	}
+
+    
+	.img-section {
+	
+	  display: flex;
+ justify-content:center;
+	}
+
+.sec-style {
+	  margin-right: 25px;
+	  margin-left: 25px;
+	
+		background-color: white;
+	}
